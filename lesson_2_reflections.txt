@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+It does not have a commit or history and a .git file is created
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+In the staging area you add the files you want to commit, the working area show you the commit you are on 
+and the repository its the entire folder we are working
