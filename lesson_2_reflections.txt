@@ -4,3 +4,6 @@ It does not have a commit or history and a .git file is created
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 In the staging area you add the files you want to commit, the working area show you the commit you are on 
 and the repository its the entire folder we are working
+
+How can you use the staging area to make sure you have one commit per logical change?
+with diff --stage
