@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 forks - its a clone in github
 clone - copy the fields to your computer
 branches - Diferents versions of a file
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can go back to that state
