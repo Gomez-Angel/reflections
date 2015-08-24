@@ -12,3 +12,7 @@ branches - Diferents versions of a file
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can go back to that state
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+harder, several people working in the same files, harder to compare the changes made (rows of code add or deleted)
+cant make differents branch to test some features
